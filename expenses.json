@@ -1,0 +1,23 @@
+{
+  "2": {
+    "title": "Dinner",
+    "amount": 120.0,
+    "category": "Food",
+    "date": "2026-10-18",
+    "note": ""
+  },
+  "3": {
+    "title": "Access 125",
+    "amount": 200.0,
+    "category": "Transport",
+    "date": "2026-10-19",
+    "note": "Petrol"
+  },
+  "4": {
+    "title": "Electricity",
+    "amount": 950.0,
+    "category": "Bills",
+    "date": "2026-10-20",
+    "note": null
+  }
+}
